@@ -118,5 +118,5 @@ educational and personal use.
 
 ## Author
 
-**Deeraj**\
+**Dhanush B P**\
 AI Student \| Web Development & Machine Learning Enthusiast
